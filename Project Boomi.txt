@@ -1,0 +1,12 @@
+Project Boomi: https://boomistore.online/
+
+
+use cases: 1.Chat bot
+           2.Data analysis
+
+
+tools used: 1.Wordpress
+            2.Hostinger
+            3.PHP
+            4.Figma
+            5.SQL
